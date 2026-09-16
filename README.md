@@ -18,7 +18,7 @@ Acesse a aplicação diretamente pelo navegador:
 
 Protótipo de registro digital de frequência com alertas automáticos, em HTML autocontido (abre direto no navegador, sem instalação).
 
-**[▶ Abrir o Registro de Frequência — Cubatão](https://andersongregatti.github.io/Estudo_streamlit/registro_frequencia_cubatao.html)**
+**[▶ Abrir o Registro de Frequência — Cubatão](https://andersongregatti.github.io/teste_repo/registro_frequencia_cubatao.html)**
 
 ### 💻 Repositório GitHub
 
@@ -72,7 +72,7 @@ Permite visualizar:
 
 > A identificação da escola utilizada nesta aba é fictícia, sendo utilizada para preservar a estrutura do estudo de caso.
 
-🔗 Protótipo relacionado: **[Registro de Frequência — Rede Municipal de Cubatão](https://andersongregatti.github.io/Estudo_streamlit/registro_frequencia_cubatao.html)**
+🔗 Protótipo relacionado: **[Registro de Frequência — Rede Municipal de Cubatão](https://andersongregatti.github.io/teste_repo/registro_frequencia_cubatao.html)**
 
 ### 4. 🤖 Machine Learning
 
@@ -209,7 +209,7 @@ O objetivo é demonstrar a aplicação prática de conceitos de:
 https://blank-app-478n20mqvfc.streamlit.app/
 
 **Registro de Frequência — Rede Municipal de Cubatão:**  
-https://andersongregatti.github.io/Estudo_streamlit/registro_frequencia_cubatao.html
+https://andersongregatti.github.io/teste_repo/registro_frequencia_cubatao.html
 
 **GitHub:**  
 https://github.com/AndersonGregatti/Estudo_streamlit
