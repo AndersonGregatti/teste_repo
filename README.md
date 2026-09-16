@@ -8,7 +8,7 @@ O projeto combina dados oficiais do **INEP / Censo Escolar** com um estudo de ca
 
 ### 🌐 Aplicação Streamlit
 
-👉 **https://blank-app-478n20mqvfc.streamlit.app/**
+👉 **https://testerepo-3uyzvcs4fr5e5iszdpliv7.streamlit.app/**
 
 Acesse a aplicação diretamente pelo navegador:
 
