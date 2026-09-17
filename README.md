@@ -6,19 +6,11 @@ O projeto combina dados oficiais do **INEP / Censo Escolar** com um estudo de ca
 
 ## 🚀 Acesse o projeto
 
-### 🌐 Aplicação Streamlit
-
-👉 **https://testerepo-3uyzvcs4fr5e5iszdpliv7.streamlit.app/**
-
-Acesse a aplicação diretamente pelo navegador:
-
-**[Abrir o Data App — Streamlit](https://blank-app-478n20mqvfc.streamlit.app/)**
 
 ### 📋 Protótipo — Registro de Frequência (Rede Municipal de Cubatão)
 
 Protótipo de registro digital de frequência com alertas automáticos, em HTML autocontido (abre direto no navegador, sem instalação).
 
-**[▶ Abrir o Registro de Frequência — Cubatão](https://andersongregatti.github.io/teste_repo/registro_frequencia_cubatao.html)**
 
 ### 💻 Repositório GitHub
 
@@ -205,11 +197,11 @@ O objetivo é demonstrar a aplicação prática de conceitos de:
 
 ## 🔗 Links
 
-**Aplicação Streamlit:**  
-https://blank-app-478n20mqvfc.streamlit.app/
+**Estudo de caso Cubatão:**  
+https://appcubatao-t7e2jepdyhxnsahk8vmj2.streamlit.appq/
 
 **Registro de Frequência — Rede Municipal de Cubatão:**  
-https://andersongregatti.github.io/teste_repo/registro_frequencia_cubatao.html
+https://testerepo-3uyzvcs4fr5e5iszdpliv7.streamlit.app/
 
 **GitHub:**  
 https://github.com/AndersonGregatti/Estudo_streamlit
