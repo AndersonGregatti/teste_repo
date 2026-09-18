@@ -198,7 +198,7 @@ O objetivo é demonstrar a aplicação prática de conceitos de:
 ## 🔗 Links
 
 **Estudo de caso Cubatão:**  
-
+https://andersongregatti-teste-repo-cubatao-app-p2tjoh.streamlit.app/
 
 **Registro de Frequência — Rede Municipal de Cubatão:**  
 https://testerepo-3uyzvcs4fr5e5iszdpliv7.streamlit.app/
