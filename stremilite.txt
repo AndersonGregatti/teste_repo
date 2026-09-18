@@ -1,0 +1,10 @@
+E:
+cd Users\FAMILIA\PROJETO_CUBATAO
+E:\Users\FAMILIA\teste_repo
+
+.venv\Scripts\activate
+
+streamlit run app.py
+
+
+appcubatao-t7e2jepdyhxnsahkq8vmj2
