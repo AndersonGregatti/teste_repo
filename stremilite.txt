@@ -8,3 +8,6 @@ streamlit run app.py
 
 
 appcubatao-t7e2jepdyhxnsahkq8vmj2
+
+python -m streamlit run cubatao_app.py
+

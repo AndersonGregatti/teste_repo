@@ -1,0 +1,646 @@
+id_municipio,municipio,taxa_abandono_ef,taxa_abandono_em
+3500303,Aguaí,0.0,1.8
+3500501,Águas de Lindóia,0.2,0.0
+3500808,Alfredo Marcondes,0.2,3.7
+3501152,Alumínio,0.5,0.0
+3501707,Américo Brasiliense,0.0,0.0
+3501905,Amparo,0.1,2.6
+3502754,Araçariguama,0.1,4.8
+3503109,Arandu,0.5,5.0
+3503158,Arapeí,0.0,0.0
+3504107,Atibaia,0.3,4.3
+3504602,Bady Bassitt,0.0,4.0
+3505708,Barueri,0.0,1.3
+3505807,Bastos,0.0,1.3
+3506359,Bertioga,1.2,5.6
+3506508,Birigui,0.1,2.1
+3506805,Bocaina,0.9,8.6
+3507704,Braúna,0.4,6.0
+3507803,Brodowski,1.1,9.1
+3507902,Brotas,0.3,3.8
+3508009,Buri,0.1,0.0
+3508405,Cabreúva,0.5,3.8
+3508702,Caconde,0.4,2.6
+3509957,Canas,0.1,1.8
+3510807,Casa Branca,1.0,3.8
+3511003,Castilho,0.0,0.0
+3511300,Cedral,0.0,2.1
+3511508,Cerquilho,0.0,4.1
+3512704,Corumbataí,0.0,0.0
+3512803,Cosmópolis,0.6,3.2
+3513405,Cruzeiro,0.5,2.0
+3513504,Cubatão,0.4,2.8
+3514403,Dracena,0.4,2.4
+3515103,Embu-Guaçu,0.1,0.9
+3515152,Engenheiro Coelho,0.0,3.7
+3515608,Fernando Prestes,0.0,0.5
+3516200,Franca,0.4,4.4
+3516309,Francisco Morato,0.3,2.1
+3517604,Guapiara,0.0,0.1
+3518305,Guararema,0.1,2.7
+3519402,Ibirá,0.0,5.1
+3519600,Ibitinga,0.3,1.7
+3520202,Igaratá,0.6,5.5
+3520442,Ilha Solteira,0.1,0.1
+3521002,Iperó,0.2,9.3
+3521309,Ipuã,0.2,2.2
+3521705,Itaberá,0.3,2.8
+3522505,Itapevi,0.4,2.9
+3522604,Itapira,1.0,5.1
+3523404,Itatiba,0.2,1.5
+3523503,Itatinga,1.1,6.9
+3523602,Itirapina,0.0,0.1
+3523909,Itu,0.2,2.6
+3524105,Ituverava,0.2,3.6
+3524808,Jales,0.2,0.9
+3525003,Jandira,0.2,3.6
+3525201,Jarinu,0.2,4.3
+3525904,Jundiaí,0.2,2.3
+3526209,Juquitiba,0.1,0.5
+3526407,Laranjal Paulista,0.0,0.1
+3526605,Lavrinhas,0.7,2.7
+3527009,Lindóia,0.0,0.0
+3527108,Lins,0.5,6.6
+3527207,Lorena,0.7,2.1
+3527306,Louveira,0.2,1.7
+3528403,Mairinque,0.7,0.6
+3528502,Mairiporã,0.4,3.2
+3529302,Matão,0.0,0.1
+3529401,Mauá,0.5,3.4
+3529906,Miracatu,0.2,1.2
+3530409,Mirassolândia,0.0,0.0
+3530508,Mococa,0.0,1.5
+3530805,Mogi Mirim,0.3,2.8
+3531209,Monte Alegre do Sul,0.2,4.7
+3533403,Nova Odessa,0.2,0.8
+3533502,Novo Horizonte,0.2,0.1
+3534500,Oscar Bressane,0.0,1.1
+3534609,Osvaldo Cruz,0.2,1.8
+3534708,Ourinhos,0.2,1.2
+3535200,Palmeira d'Oeste,0.9,3.9
+3535309,Palmital,0.0,0.5
+3536703,Pederneiras,1.3,9.8
+3537305,Penápolis,0.3,3.4
+3537602,Peruíbe,0.3,0.5
+3537800,Piedade,0.4,2.9
+3538006,Pindamonhangaba,0.2,2.6
+3539202,Pirapozinho,0.3,6.5
+3539707,Platina,0.8,4.9
+3540606,Porto Feliz,0.0,0.8
+3540705,Porto Ferreira,0.5,4.9
+3541703,Quatá,0.0,0.0
+3542701,Restinga,1.3,6.3
+3544004,Rio das Pedras,0.7,5.2
+3544608,Sabino,0.3,7.2
+3547304,Santana de Parnaíba,0.0,0.7
+3547502,Santa Rita do Passa Quatro,0.0,1.1
+3547700,Santo Anastácio,0.0,0.2
+3547809,Santo André,0.5,3.1
+3548005,Santo Antônio de Posse,0.0,11.1
+3548203,Santo Antônio do Pinhal,0.9,2.7
+3549508,São José da Bela Vista,1.4,13.6
+3550209,São Miguel Arcanjo,0.3,1.9
+3550506,São Pedro do Turvo,0.7,4.9
+3550704,São Sebastião,0.0,1.6
+3550902,São Simão,0.7,8.0
+3551405,Serra Azul,1.0,8.2
+3551504,Serrana,1.5,7.3
+3551603,Serra Negra,0.0,2.3
+3551900,Severínia,0.1,0.0
+3552007,Silveiras,0.6,5.8
+3552106,Socorro,0.1,1.6
+3552502,Suzano,0.5,3.2
+3553609,Tapiratiba,0.0,0.0
+3554003,Tatuí,0.8,5.2
+3554656,Torre de Pedra,2.6,9.6
+3555604,Uchoa,0.0,10.2
+3556206,Valinhos,0.3,3.1
+3556503,Várzea Paulista,0.2,3.0
+3556701,Vinhedo,0.0,3.4
+3557303,Estiva Gerbi,0.7,0.0
+3546900,Santa Lúcia,0.0,5.5
+3508504,Caçapava,0.3,2.0
+3515129,Emilianópolis,0.0,1.7
+3542404,Regente Feijó,0.6,7.3
+3552403,Sumaré,0.6,2.9
+3502200,Angatuba,0.2,6.8
+3503505,Areias,0.2,4.5
+3504503,Avaré,0.4,3.6
+3523800,Itobi,0.2,3.8
+3536307,Patrocínio Paulista,1.1,6.3
+3538501,Piquete,0.9,3.1
+3538600,Piracaia,0.1,0.4
+3544103,Rio Grande da Serra,0.4,2.0
+3505609,Barrinha,0.0,0.2
+3506300,Bernardino de Campos,0.0,0.0
+3509452,Campina do Monte Alegre,0.0,9.3
+3510609,Carapicuíba,0.8,3.7
+3535804,Paranapanema,0.3,6.0
+3506607,Biritiba-Mirim,0.0,2.6
+3517505,Guapiaçu,0.0,9.5
+3518602,Guariba,0.2,3.0
+3532058,Motuca,0.0,6.1
+3540754,Potim,0.1,7.0
+3541505,Presidente Venceslau,0.2,7.8
+3543600,Rifaina,0.5,8.6
+3552700,Tabatinga,0.4,5.7
+3502606,Aparecida d'Oeste,0.4,0.0
+3504008,Assis,0.2,2.7
+3509601,Campo Limpo Paulista,0.5,3.7
+3534401,Osasco,0.4,2.4
+3541406,Presidente Prudente,0.2,1.6
+3544251,Rosana,0.0,1.8
+3545506,Sandovalina,0.0,0.0
+3548807,São Caetano do Sul,0.0,0.7
+3554102,Taubaté,0.1,2.5
+3518800,Guarulhos,0.3,2.5
+3524303,Jaboticabal,0.3,2.2
+3531100,Mongaguá,0.0,1.7
+3536109,Pardinho,0.4,3.9
+3555406,Ubatuba,0.3,4.5
+3506102,Bebedouro,0.4,3.8
+3508801,Cafelândia,0.2,2.1
+3519709,Ibiúna,0.5,4.0
+3520509,Indaiatuba,0.3,2.5
+3530102,Mirandópolis,0.5,1.7
+3542008,Quintana,0.7,6.3
+3557006,Votorantim,0.5,4.2
+3525706,José Bonifácio,0.0,0.1
+3529203,Martinópolis,0.8,5.3
+3530607,Mogi das Cruzes,0.4,3.6
+3501608,Americana,0.2,2.6
+3522406,Itapeva,0.2,0.7
+3541307,Presidente Epitácio,0.1,1.3
+3557204,Chavantes,0.1,4.5
+3502903,Araçoiaba da Serra,0.1,3.7
+3505302,Barra Bonita,0.3,2.2
+3538709,Piracicaba,0.4,3.5
+3539103,Pirapora do Bom Jesus,1.1,4.0
+3540200,Pontal,0.3,0.2
+3509007,Caieiras,0.2,2.1
+3510203,Capão Bonito,0.1,1.7
+3513801,Diadema,0.4,2.5
+3522703,Itápolis,0.2,2.4
+3543907,Rio Claro,0.5,3.4
+3514106,Dois Córregos,0.0,1.9
+3519303,Ibaté,0.0,0.5
+3524600,Jacupiranga,0.0,5.2
+3526704,Leme,0.2,3.7
+3537107,Pedreira,0.2,2.4
+3537909,Pilar do Sul,0.3,1.7
+3541208,Presidente Bernardes,0.2,1.9
+3542602,Registro,0.1,0.8
+3548906,São Carlos,0.2,1.7
+3549102,São João da Boa Vista,0.2,1.1
+3549904,São José dos Campos,0.1,1.6
+3556602,Vera Cruz,0.0,0.0
+3500105,Adamantina,0.0,0.1
+3500204,Adolfo,0.0,0.0
+3500758,Alambari,0.0,0.0
+3501509,Alvinlândia,0.0,0.0
+3502408,Anhumas,0.5,7.6
+3503000,Aramina,0.3,3.2
+3503356,Arco-Íris,0.0,1.4
+3505401,Barra do Turvo,0.4,8.3
+3507308,Boracéia,0.2,4.7
+3507753,Brejo Alegre,0.0,0.5
+3508108,Buritama,0.0,0.0
+3508306,Cabrália Paulista,1.2,3.7
+3509106,Caiuá,0.5,1.0
+3511201,Catiguá,0.2,4.5
+3512506,Coroados,0.1,1.9
+3514700,Echaporã,0.1,2.7
+3515301,Estrela do Norte,0.0,0.0
+3517208,Guaiçara,0.1,3.3
+3519006,Herculândia,0.0,0.0
+3519105,Iacanga,0.4,7.7
+3520426,Ilha Comprida,0.0,2.7
+3521507,Irapuã,0.4,2.0
+3523008,Itapura,0.0,0.0
+3525409,Jeriquara,0.0,1.9
+3526001,Junqueirópolis,0.0,0.0
+3527801,Lupércio,0.0,0.0
+3527900,Lutécia,0.0,3.2
+3529500,Mendonça,0.0,1.8
+3531001,Monções,0.0,2.4
+3531407,Monte Aprazível,0.0,0.0
+3533106,Nova Guataporanga,0.0,0.0
+3534807,Ouro Verde,0.0,7.6
+3535903,Paranapuã,0.0,0.7
+3538303,Piquerobi,0.2,9.5
+3540853,Pracinha,0.0,0.0
+3541109,Presidente Alves,0.0,0.0
+3542107,Rafard,0.1,3.1
+3543204,Ribeirão do Sul,0.2,5.4
+3543253,Ribeirão Grande,0.1,1.4
+3544707,Sagres,0.0,0.0
+3545159,Saltinho,0.0,1.5
+3546207,Santa Cruz da Conceição,1.0,4.4
+3547007,Santa Maria da Serra,0.3,7.4
+3547106,Santa Mercedes,0.0,2.2
+3548609,São Bento do Sapucaí,0.2,4.7
+3551207,Sarutaiá,1.9,5.6
+3552304,Sud Mennucci,0.4,4.0
+3553005,Taguaí,0.0,0.3
+3553906,Tarabai,0.1,7.2
+3554409,Terra Roxa,0.1,0.4
+3555109,Tupi Paulista,0.0,4.1
+3500907,Altair,0.2,0.0
+3504305,Avaí,0.5,1.6
+3510104,Cândido Rodrigues,0.4,0.0
+3510906,Cássia dos Coqueiros,0.0,0.0
+3514205,Dolcinópolis,0.5,3.6
+3514304,Dourado,0.0,0.0
+3514957,Embaúba,0.4,0.0
+3517307,Guaimbê,0.0,3.1
+3521903,Itajobi,0.0,0.5
+3526506,Lavínia,0.6,0.0
+3529658,Mesópolis,0.8,0.0
+3529807,Mineiros do Tietê,0.0,0.0
+3531902,Morro Agudo,0.1,0.1
+3533205,Nova Independência,0.3,1.0
+3533254,Novais,0.0,0.0
+3536802,Pedra Bela,0.0,0.0
+3538105,Pindorama,0.0,0.0
+3554904,Três Fronteiras,0.4,0.0
+3556008,Urupês,0.0,0.7
+3556305,Valparaíso,0.1,0.9
+3556354,Vargem,0.0,4.7
+3531605,Monte Castelo,0.0,0.0
+3514601,Dumont,0.2,0.0
+3516606,Gália,0.7,0.5
+3500600,Águas de São Pedro,0.0,2.8
+3517000,Getulina,0.3,0.0
+3545605,Santa Adélia,0.0,0.3
+3519808,Icém,0.0,0.0
+3519253,Iaras,0.0,0.0
+3538204,Pinhalzinho,0.0,0.2
+3543808,Rinópolis,0.0,0.0
+3503950,Aspásia,0.0,0.0
+3504701,Balbinos,0.0,0.0
+3505005,Barão de Antonina,0.0,0.0
+3506201,Bento de Abreu,0.0,0.0
+3507209,Borá,0.0,0.0
+3511904,Clementina,0.0,0.0
+3512902,Cosmorama,0.0,0.0
+3513850,Dirce Reis,0.0,0.0
+3514924,Elisiário,0.0,0.0
+3515657,Fernão,0.0,0.0
+3515806,Flora Rica,0.0,0.0
+3516002,Flórida Paulista,0.0,0.0
+3516101,Florínia,0.3,1.1
+3516507,Gabriel Monteiro,0.0,0.0
+3517109,Glicério,0.0,1.1
+3518909,Guzolândia,0.0,0.0
+3520707,Indiaporã,0.0,0.0
+3520806,Inúbia Paulista,0.0,4.9
+3524501,Jaci,0.0,0.0
+3527256,Lourdes,0.0,0.0
+3527702,Luiziânia,0.0,0.0
+3528304,Magda,0.0,0.0
+3528700,Marabá Paulista,0.0,0.0
+3528908,Mariápolis,0.0,0.0
+3529609,Meridiano,0.0,0.0
+3532108,Murutinga do Sul,0.3,0.0
+3533809,Óleo,0.0,0.0
+3534104,Oriente,0.0,0.0
+3534203,Orindiúva,0.0,0.0
+3536257,Parisi,0.0,0.0
+3536570,Paulistânia,0.0,1.9
+3536604,Paulo de Faria,0.2,0.0
+3536901,Pedranópolis,0.0,0.0
+3541802,Queiroz,0.0,0.9
+3543238,Ribeirão dos Índios,0.0,1.5
+3544905,Sales Oliveira,0.1,0.0
+3545100,Salmourão,0.4,0.0
+3545704,Santa Albertina,0.0,1.3
+3546256,Santa Cruz da Esperança,0.0,0.0
+3546504,Santa Ernestina,0.0,1.8
+3548054,Santo Antônio do Aracanguá,0.0,0.0
+3548104,Santo Antônio do Jardim,0.0,0.0
+3548401,Santópolis do Aguapeí,0.0,1.6
+3549201,São João das Duas Pontes,0.0,0.0
+3549953,São Lourenço da Serra,0.0,0.8
+3551306,Sebastianópolis do Sul,0.0,0.0
+3552601,Tabapuã,0.1,0.0
+3553708,Taquaritinga,0.2,0.2
+3554755,Trabiju,0.0,0.0
+3555208,Turiúba,0.0,0.0
+3555901,Uru,0.0,0.0
+3556958,Vitória Brasil,0.0,0.0
+3501301,Álvares Machado,0.0,7.3
+3502002,Analândia,0.3,1.8
+3502101,Andradina,0.0,0.8
+3502507,Aparecida,0.1,1.8
+3502705,Apiaí,0.4,1.5
+3502804,Araçatuba,0.1,1.0
+3503604,Areiópolis,0.0,0.0
+3503802,Artur Nogueira,0.3,2.2
+3503901,Arujá,0.1,3.2
+3504404,Avanhandava,0.1,0.4
+3505203,Bariri,0.1,1.5
+3506706,Boa Esperança do Sul,0.9,1.4
+3506904,Bofete,0.3,0.0
+3507100,Bom Jesus dos Perdões,0.4,0.4
+3507506,Botucatu,0.6,2.7
+3509254,Cajati,0.3,1.9
+3509403,Cajuru,0.3,5.0
+3509502,Campinas,0.6,4.1
+3509908,Cananéia,0.7,4.6
+3510005,Cândido Mota,0.2,3.0
+3510302,Capela do Alto,0.3,9.1
+3510500,Caraguatatuba,0.1,2.3
+3510708,Cardoso,0.1,0.0
+3511607,Cesário Lange,0.0,0.2
+3512001,Colina,0.0,4.2
+3512100,Colômbia,0.1,0.0
+3513108,Cravinhos,0.7,1.4
+3514809,Eldorado,0.0,6.2
+3515400,Fartura,0.0,0.0
+3515509,Fernandópolis,0.1,0.6
+3515707,Ferraz de Vasconcelos,0.5,5.4
+3517406,Guaíra,0.0,0.9
+3518404,Guaratinguetá,0.3,2.8
+3518503,Guareí,0.8,8.1
+3518701,Guarujá,0.7,6.5
+3518859,Guatapará,0.3,4.8
+3519204,Iacri,0.0,2.1
+3520004,Igaraçu do Tietê,0.4,7.8
+3520301,Iguape,0.2,2.6
+3520400,Ilhabela,0.0,5.0
+3521150,Ipiguá,0.0,1.0
+3521408,Iracemápolis,0.3,2.0
+3521606,Irapuru,1.3,6.1
+3522000,Itaju,0.5,2.9
+3522109,Itanhaém,0.1,1.8
+3522802,Itaporanga,0.4,6.1
+3522901,Itapuí,0.8,2.6
+3523107,Itaquaquecetuba,0.5,3.2
+3523206,Itararé,0.4,6.8
+3524709,Jaguariúna,0.0,2.7
+3524907,Jambeiro,0.0,2.3
+3525102,Jardinópolis,1.1,7.2
+3526100,Juquiá,0.0,0.0
+3526308,Lagoinha,0.7,0.4
+3527405,Lucélia,0.0,2.0
+3527603,Luís Antônio,0.0,8.1
+3528809,Maracaí,0.1,0.5
+3529005,Marília,0.1,1.5
+3529708,Miguelópolis,0.2,3.0
+3530300,Mirassol,0.1,1.4
+3530706,Mogi Guaçu,0.6,5.9
+3530904,Mombuca,0.0,1.6
+3531308,Monte Alto,0.0,3.9
+3531704,Monteiro Lobato,0.5,9.9
+3531803,Monte Mor,0.5,5.1
+3532009,Morungaba,0.2,10.6
+3534005,Onda Verde,0.0,0.0
+3535507,Paraguaçu Paulista,0.0,0.0
+3535606,Paraibuna,0.5,5.5
+3536208,Pariquera-Açu,0.0,1.4
+3538808,Piraju,0.2,2.0
+3539509,Pitangueiras,0.6,2.3
+3539905,Poloni,1.4,4.0
+3540903,Pradópolis,0.6,3.6
+3541000,Praia Grande,0.4,2.7
+3541901,Queluz,0.1,0.7
+3542206,Rancharia,0.0,1.7
+3543006,Ribeirão Branco,0.2,1.7
+3543105,Ribeirão Corrente,0.0,2.2
+3543402,Ribeirão Preto,0.9,5.2
+3543709,Rincão,1.4,14.3
+3544301,Roseira,0.0,0.3
+3545209,Salto,0.1,2.6
+3546009,Santa Branca,0.0,4.9
+3546306,Santa Cruz das Palmeiras,0.2,5.9
+3546702,Santa Gertrudes,0.0,0.7
+3546801,Santa Isabel,0.1,2.4
+3547601,Santa Rosa de Viterbo,0.2,3.5
+3549409,São Joaquim da Barra,0.2,3.0
+3549607,São José do Barreiro,0.0,9.5
+3550001,São Luís do Paraitinga,0.0,2.2
+3550100,São Manuel,0.3,2.7
+3550407,São Pedro,0.4,5.5
+3550605,São Roque,0.2,4.3
+3551009,São Vicente,0.3,2.7
+3552809,Taboão da Serra,0.5,2.8
+3553401,Tanabi,0.0,0.0
+3553807,Taquarituba,0.2,2.3
+3553955,Tarumã,0.0,0.0
+3554508,Tietê,0.1,5.7
+3554805,Tremembé,0.1,4.0
+3555356,Ubarana,0.0,0.0
+3556404,Vargem Grande do Sul,0.4,2.5
+3557105,Votuporanga,0.1,2.8
+3510401,Capivari,0.4,6.9
+3545001,Salesópolis,0.5,3.5
+3540804,Potirendaba,0.1,3.1
+3547908,Santo Antônio da Alegria,0.0,0.0
+3555505,Ubirajara,0.0,0.0
+3539400,Piratininga,0.0,0.0
+3549706,São José do Rio Pardo,0.3,4.3
+3551702,Sertãozinho,0.2,1.6
+3513603,Cunha,0.2,2.2
+3517703,Guará,0.1,3.8
+3548708,São Bernardo do Campo,0.4,2.9
+3550308,São Paulo,0.8,4.4
+3551801,Sete Barras,0.0,0.5
+3554706,Torrinha,0.1,5.9
+3513009,Cotia,0.6,2.8
+3502309,Anhembi,0.6,1.0
+3506003,Bauru,0.7,6.3
+3509700,Campos do Jordão,0.5,3.5
+3520103,Igarapava,0.0,0.3
+3545308,Salto de Pirapora,0.8,3.0
+3522653,Itapirapuã Paulista,1.6,4.1
+3532207,Narandiba,0.1,7.1
+3539608,Planalto,0.5,6.2
+3512407,Cordeirópolis,0.3,3.0
+3525300,Jaú,0.6,3.7
+3531506,Monte Azul Paulista,0.3,4.2
+3539806,Poá,0.3,3.1
+3540002,Pompéia,0.0,0.0
+3543303,Ribeirão Pires,0.2,1.4
+3500402,Águas da Prata,0.0,0.0
+3513702,Descalvado,0.3,2.1
+3532827,Nova Campina,0.0,0.0
+3540507,Porangaba,0.0,1.5
+3550803,São Sebastião da Grama,0.6,5.5
+3512209,Conchal,0.7,6.0
+3519071,Hortolândia,0.3,1.2
+3534302,Orlândia,0.2,5.0
+3536505,Paulínia,0.3,0.9
+3548500,Santos,0.6,3.3
+3556453,Vargem Grande Paulista,0.2,2.7
+3503208,Araraquara,0.4,3.8
+3511409,Cerqueira César,0.4,2.7
+3524402,Jacareí,0.2,2.1
+3539301,Pirassununga,0.3,3.9
+3553302,Tambaú,0.2,0.3
+3555000,Tupã,0.2,0.9
+3508603,Cachoeira Paulista,0.1,3.5
+3515186,Espírito Santo do Pinhal,0.4,2.6
+3546405,Santa Cruz do Rio Pardo,0.4,2.3
+3549805,São José do Rio Preto,0.3,3.2
+3500709,Agudos,0.8,7.4
+3501806,Américo de Campos,0.0,0.0
+3503307,Araras,0.3,3.0
+3505500,Barretos,0.4,2.6
+3505906,Batatais,0.9,5.3
+3514502,Duartina,0.5,2.4
+3514908,Elias Fausto,0.0,6.5
+3516705,Garça,0.4,3.0
+3521804,Itaí,0.5,2.2
+3542909,Ribeirão Bonito,0.0,6.3
+3507605,Bragança Paulista,0.6,3.1
+3509205,Cajamar,0.2,2.4
+3511102,Catanduva,0.1,1.8
+3522307,Itapetininga,0.5,3.5
+3526803,Lençóis Paulista,0.1,1.5
+3526902,Limeira,0.5,3.6
+3532801,Nova Aliança,1.2,13.7
+3552908,Taciba,0.0,2.7
+3515004,Embu das Artes,0.8,5.1
+3516408,Franco da Rocha,0.3,2.3
+3522208,Itapecerica da Serra,0.3,1.7
+3532306,Natividade da Serra,0.0,7.1
+3535408,Panorama,0.3,5.8
+3537008,Pedregulho,1.2,5.0
+3545407,Salto Grande,0.0,0.0
+3524006,Itupeva,0.4,3.5
+3536000,Parapuã,0.0,0.8
+3545803,Santa Bárbara d'Oeste,0.3,4.9
+3552205,Sorocaba,0.4,3.0
+3553500,Tapiraí,0.0,2.9
+3507001,Boituva,0.0,2.7
+3513900,Divinolândia,0.6,11.4
+3544202,Riolândia,0.3,0.7
+3501004,Altinópolis,0.5,7.9
+3501400,Álvaro de Carvalho,0.2,7.6
+3503406,Arealva,0.3,2.7
+3504206,Auriflama,0.0,0.2
+3504800,Bálsamo,0.3,2.5
+3504909,Bananal,1.0,1.6
+3505351,Barra do Chapéu,0.0,3.4
+3507159,Bom Sucesso de Itararé,0.2,0.5
+3507407,Borborema,0.0,0.0
+3508900,Caiabu,0.3,3.2
+3509809,Campos Novos Paulista,0.0,3.5
+3511706,Charqueada,0.2,6.5
+3512308,Conchas,0.0,2.1
+3512605,Coronel Macedo,0.2,3.4
+3513207,Cristais Paulista,0.4,7.0
+3515194,Espírito Santo do Turvo,0.0,0.0
+3515350,Euclides da Cunha Paulista,0.0,0.0
+3516804,Gastão Vidigal,0.3,6.5
+3517802,Guaraçaí,0.1,1.1
+3518008,Guarani d'Oeste,0.0,0.0
+3518107,Guarantã,0.7,7.4
+3518206,Guararapes,0.0,0.9
+3519055,Holambra,0.1,4.2
+3519501,Ibirarema,0.0,0.0
+3519907,Iepê,0.0,0.4
+3520608,Indiana,0.0,1.2
+3523305,Itariri,0.0,0.2
+3523701,Itirapuã,0.4,8.2
+3525508,Joanópolis,0.0,3.3
+3525607,João Ramalho,0.0,1.0
+3525805,Júlio Mesquita,0.0,0.0
+3525854,Jumirim,0.0,18.0
+3527504,Lucianópolis,0.0,5.5
+3528007,Macatuba,0.3,7.9
+3528106,Macaubal,0.0,0.9
+3528205,Macedônia,0.0,3.8
+3528858,Marapoama,0.0,1.1
+3530201,Mirante do Paranapanema,0.0,0.3
+3532157,Nantes,0.0,0.0
+3532405,Nazaré Paulista,0.2,0.9
+3532504,Neves Paulista,0.0,4.1
+3532603,Nhandeara,0.3,3.0
+3532900,Nova Europa,0.0,0.0
+3533007,Nova Granada,0.1,6.0
+3533700,Ocauçu,0.4,1.9
+3533908,Olímpia,0.1,0.1
+3534757,Ouroeste,0.0,0.4
+3534906,Pacaembu,0.2,0.6
+3535002,Palestina,0.2,0.4
+3535101,Palmares Paulista,0.0,0.4
+3536406,Paulicéia,0.0,0.0
+3537206,Pedro de Toledo,0.1,0.0
+3537701,Piacatu,0.0,1.5
+3538907,Pirajuí,0.2,1.0
+3540101,Pongaí,0.0,0.0
+3541059,Pratânia,0.0,0.0
+3541604,Promissão,0.0,2.9
+3542305,Redenção da Serra,0.0,0.5
+3543501,Riversul,0.6,11.4
+3544509,Rubinéia,0.3,7.3
+3546603,Santa Fé do Sul,0.0,0.1
+3547403,Santa Rita d'Oeste,0.0,0.0
+3549003,São Francisco,0.0,0.0
+3551108,Sarapuí,0.3,1.9
+3552551,Suzanápolis,0.0,2.9
+3553856,Taquarivaí,0.0,5.5
+3554201,Tejupá,0.5,9.2
+3554300,Teodoro Sampaio,0.0,1.9
+3554607,Timburi,0.0,6.1
+3555802,Urânia,0.4,3.7
+3556107,Valentim Gentil,0.8,4.1
+3556800,Viradouro,0.0,0.5
+3557154,Zacarias,0.0,0.0
+3507456,Borebi,0.0,2.7
+3508207,Buritizal,0.0,0.0
+3517901,Guaraci,0.0,0.0
+3520905,Ipaussu,0.0,0.1
+3524204,Jaborandi,0.1,0.0
+3533601,Nuporanga,0.8,0.0
+3537404,Pereira Barreto,0.2,0.2
+3548302,Santo Expedito,1.0,0.0
+3521200,Iporanga,0.0,0.0
+3542503,Reginópolis,0.6,0.7
+3515202,Estrela d'Oeste,0.0,0.0
+3500550,Águas de Santa Bárbara,0.0,0.0
+3501103,Alto Alegre,0.0,0.0
+3501202,Álvares Florence,0.3,2.2
+3503703,Ariranha,0.0,0.0
+3505104,Barbosa,0.0,0.0
+3506409,Bilac,0.0,0.0
+3509304,Cajobi,0.0,0.0
+3510153,Canitar,0.3,0.0
+3513306,Cruzália,0.0,0.0
+3514007,Dobrada,0.1,0.3
+3515905,Floreal,0.0,0.0
+3516853,Gavião Peixoto,0.0,0.0
+3516903,General Salgado,0.3,0.4
+3521101,Ipeúna,0.0,0.0
+3522158,Itaóca,0.3,0.0
+3528601,Manduri,0.0,0.0
+3529104,Marinópolis,0.0,0.0
+3530003,Mira Estrela,0.0,0.0
+3532702,Nipoã,0.0,0.0
+3532843,Nova Canaã Paulista,0.0,0.0
+3532868,Nova Castilho,0.0,0.0
+3533304,Nova Luzitânia,0.0,0.0
+3535705,Paraíso,0.0,0.0
+3537156,Pedrinhas Paulista,0.0,0.0
+3537503,Pereiras,0.0,0.0
+3539004,Pirangi,0.1,0.0
+3540259,Pontalinda,0.0,0.0
+3540309,Pontes Gestal,0.0,0.0
+3540408,Populina,0.0,0.0
+3541653,Quadra,0.2,0.0
+3542800,Ribeira,0.0,0.0
+3544400,Rubiácea,0.0,0.0
+3544806,Sales,0.1,0.0
+3546108,Santa Clara d'Oeste,0.0,0.0
+3547205,Santana da Ponte Pensa,0.0,2.3
+3547650,Santa Salete,0.0,0.0
+3549250,São João de Iracema,0.0,0.0
+3549300,São João do Pau d'Alho,0.0,0.0
+3553104,Taiaçu,0.0,4.1
+3553203,Taiúva,0.0,0.0
+3553658,Taquaral,0.4,2.1
+3554953,Tuiuti,0.0,0.0
+3555307,Turmalina,0.0,0.0
+3555703,União Paulista,0.5,0.0
+3556909,Vista Alegre do Alto,0.0,0.0
