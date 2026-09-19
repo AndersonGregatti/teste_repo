@@ -11,3 +11,5 @@ appcubatao-t7e2jepdyhxnsahkq8vmj2
 
 python -m streamlit run cubatao_app.py
 
+
+https://andersongregatti-teste-repo-cubatao-app-p2tjoh.streamlit.app/
